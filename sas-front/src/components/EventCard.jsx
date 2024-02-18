@@ -3,7 +3,7 @@ import dre from "../assets/dre.jpg"
 
 const EventCard = () => {
   return (
-    <div className="w-full sm:w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-2">
+    <div className="w-full sm:w-1/1 md:w-1/2 lg:w-1/3 xl:w-1/3 p-2">
 
     <div className="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
       <a href="#">
