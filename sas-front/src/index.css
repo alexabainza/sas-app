@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.shadow-text:hover {
+    text-shadow: 0 0 5px blue-500;
+  }
+  
